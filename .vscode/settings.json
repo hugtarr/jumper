@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\user\\Desktop\\jumper\\.venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\user\\Desktop\\jumper\\.venv\\Scripts\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
